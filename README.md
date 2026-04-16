@@ -21,7 +21,11 @@
 ### 🎥 Interactive Walkthrough
 > **Note:** If the video player below does not load, you can [view the raw video file here](./dashboard_demo.mp4).
 
-<video src="dashboard_demo.mp4" width="100%" controls></video>
+
+
+
+
+
 
 ---
 
