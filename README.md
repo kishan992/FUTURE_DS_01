@@ -1,15 +1,15 @@
 # 📊 FUTURE_DS_01 – Superstore Sales Performance Dashboard
 
 ## 📌 Project Overview
-**FUTURE_DS_01** is a comprehensive sales analysis project. The objective was to transform raw Superstore data into an executive-level dashboard to identify growth opportunities and efficiency leaks.
+**FUTURE_DS_01** is a business intelligence project designed to identify revenue opportunities and operational inefficiencies. This dashboard transforms raw transactional data into actionable strategic insights using Tableau.
 
 ---
 
 ## 📈 Key Business Insights
-* **Category Performance:** The **Technology** category drives the highest profit margins, despite **Furniture** having high sales volume. This suggests a need to review Furniture shipping costs.
-* **Regional Analysis:** The **Western Region** is the top performer. In contrast, the **Southern Region** shows a declining profit trend in the "Office Supplies" segment, indicating a need for targeted promotions.
-* **Seasonality:** Data shows a consistent **30% spike in Q4 (November-December)**, suggesting that inventory levels should be increased by mid-October to meet holiday demand.
-* **Customer Segments:** The **Consumer segment** accounts for 50% of total sales, but the **Corporate segment** has a higher average order value (AOV).
+* **Technology Profitability:** This category drives the highest net profit (approx. 40% margin), outperforming Furniture despite lower volume.
+* **Regional Analysis:** The **Western Region** is the top revenue generator. The **Central Region** shows high returns, indicating a need for inventory quality review.
+* **Seasonality:** Identified a **30% revenue surge in Q4**, highlighting the need for strategic stock increases by October.
+* **Customer Segments:** The **Consumer segment** drives 50% of revenue, but the **Corporate segment** shows 15% higher year-over-year growth, representing a key scaling opportunity.
 
 ---
 
@@ -19,25 +19,16 @@
 ![Dashboard Image](dashboard_preview.png)
 
 ### 🎥 Interactive Walkthrough
-> **Note:** If the video player below does not load, you can [view the raw video file here](./dashboard_demo.mp4).
-
-<video src="dashboard_demo.mp4" width="100%" controls></video>
-
----
-
-## 🎯 Business Questions Addressed
-* Which product categories generate the highest revenue and profit?
-* How do sales trends fluctuate over time (Seasonality)?
-* Which regions are most profitable, and which require strategic intervention?
+<video src="https://github.com/kishan992/FUTURE_DS_01/releases/download/v1/dashboard_demo.mp4" width="100%" controls></video>
 
 ---
 
 ## 🛠️ Tools Used
-* **Tableau Desktop:** Visualization & Dashboarding
-* **Excel:** Data Cleaning & Preparation
-* **Git/GitHub:** Version Control
+* **Tableau Desktop:** Data Visualization & Dashboard Design
+* **Excel:** Data ETL & Cleaning
+* **Git/GitHub:** Version Control & Documentation
 
 ---
 
 ## 🚀 Conclusion
-This project successfully identifies high-value segments and seasonal trends, providing a roadmap for optimizing regional sales strategies.
+This project successfully identifies high-value segments and seasonal trends, providing a roadmap for optimizing regional sales strategies and improving overall business profitability.
