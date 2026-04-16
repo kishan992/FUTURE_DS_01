@@ -1,4 +1,11 @@
 # 📊 FUTURE_DS_01 – Superstore Sales Performance Dashboard
+---
+
+## 🖼️ Dashboard Preview & Demo
+![Dashboard Image](./dashboard_preview.png)
+
+### 🎥 Interactive Walkthrough
+<video src="dashboard_demo.mp4" width="100%" controls></video>
 
 ## 📌 Project Overview
 **FUTURE_DS_01** is the first task completed as part of the Data Science & Analytics Internship program. The objective of this task was to analyze real-world business sales data (Superstore dataset) and transform raw data into meaningful, actionable insights using **Tableau**.
